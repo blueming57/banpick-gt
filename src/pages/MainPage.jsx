@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import bgImageSrc from "../assets/background.png";
 import MainPageTemplete from "../components/mainPage/MainPageTemplete";
-import HeaderArea from "../components/mainPage/Header";
+import HeaderArea from "../components/mainPage/Header/Header";
 
 const Background = styled.div`
   max-width: 100%;
