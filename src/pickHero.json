@@ -1,0 +1,442 @@
+{
+  "가람": {
+    "en_name": "Garam",
+    "property": "water",
+    "src": ""
+  },
+  "가브리엘": {
+    "en_name": "Gabriel",
+    "property": "light",
+    "src": ""
+  },
+  "가우리": {
+    "en_name": "Gourry",
+    "property": "light",
+    "src": ""
+  },
+  "그레모리": {
+    "en_name": "Gremory",
+    "property": "dark",
+    "src": ""
+  },
+  "기르가스": {
+    "en_name": "Girgas",
+    "property": "fire",
+    "src": ""
+  },
+  "기사": {
+    "en_name": "Knight",
+    "property": "basic",
+    "src": ""
+  },
+  "나리": {
+    "en_name": "Nari",
+    "property": "basic",
+    "src": ""
+  },
+  "녹시아": {
+    "en_name": "Noxia",
+    "property": "dark",
+    "src": ""
+  },
+  "네바": {
+    "en_name": "Neva",
+    "property": "light",
+    "src": ""
+  },
+  "돌프": {
+    "en_name": "Dolf",
+    "property": "fire",
+    "src": ""
+  },
+  "라비": {
+    "en_name": "Lavi",
+    "property": "fire",
+    "src": ""
+  },
+  "라이프 가드 유즈": {
+    "en_name": "Life Guard Yuze",
+    "property": "water",
+    "src": ""
+  },
+  "라피스": {
+    "en_name": "Lapice",
+    "property": "light",
+    "src": ""
+  },
+  "란": {
+    "en_name": "Lahn",
+    "property": "basic",
+    "src": ""
+  },
+  "란팡": {
+    "en_name": "Ranpang",
+    "property": "basic",
+    "src": ""
+  },
+  "로레인": {
+    "en_name": "Loraine",
+    "property": "basic",
+    "src": ""
+  },
+  "루": {
+    "en_name": "Rue",
+    "property": "earth",
+    "src": ""
+  },
+  "루시": {
+    "en_name": "Lucy",
+    "property": "fire",
+    "src": ""
+  },
+  "루피나": {
+    "en_name": "Lupina",
+    "property": "dark",
+    "src": ""
+  },
+  "리나": {
+    "en_name": "Lina",
+    "property": "fire",
+    "src": ""
+  },
+  "리리스": {
+    "en_name": "Lilith",
+    "property": "dark",
+    "src": ""
+  },
+  "리에": {
+    "en_name": "Rie",
+    "property": "basic",
+    "src": ""
+  },
+  "린": {
+    "en_name": "Lynn",
+    "property": "fire",
+    "src": ""
+  },
+  "레이": {
+    "en_name": "Rey",
+    "property": "fire",
+    "src": ""
+  },
+  "레이첼": {
+    "en_name": "Rachel",
+    "property": "water",
+    "src": ""
+  },
+  "마리나": {
+    "en_name": "Marina",
+    "property": "water",
+    "src": ""
+  },
+  "마리안": {
+    "en_name": "Marianne",
+    "property": "earth",
+    "src": ""
+  },
+  "마빈": {
+    "en_name": "Marvin",
+    "property": "earth",
+    "src": ""
+  },
+  "미래 공주": {
+    "en_name": "Future Princess",
+    "property": "light",
+    "src": ""
+  },
+  "미래 기사": {
+    "en_name": "Future Knight",
+    "property": "basic",
+    "src": ""
+  },
+  "미스 크롬": {
+    "en_name": "Miss Chrom",
+    "property": "basic",
+    "src": ""
+  },
+  "미야": {
+    "en_name": "Miya",
+    "property": "fire",
+    "src": ""
+  },
+  "매드 팬더단": {
+    "en_name": "Mad Panda Trio",
+    "property": "earth",
+    "src": ""
+  },
+  "메이": {
+    "en_name": "Mei",
+    "property": "light",
+    "src": ""
+  },
+  "메이릴": {
+    "en_name": "Mayreel",
+    "property": "earth",
+    "src": ""
+  },
+  "바리": {
+    "en_name": "Bari",
+    "property": "earth",
+    "src": ""
+  },
+  "발렌시아": {
+    "en_name": "Valencia",
+    "property": "light",
+    "src": ""
+  },
+  "비슈바크": {
+    "en_name": "Vishuvac",
+    "property": "fire",
+    "src": ""
+  },
+  "비앙카": {
+    "en_name": "Bianca",
+    "property": "water",
+    "src": ""
+  },
+  "베로니카": {
+    "en_name": "Veronica",
+    "property": "water",
+    "src": ""
+  },
+  "베스": {
+    "en_name": "Beth",
+    "property": "dark",
+    "src": ""
+  },
+  "샤피라": {
+    "en_name": "Shapira",
+    "property": "dark",
+    "src": ""
+  },
+  "소히": {
+    "en_name": "Sohee",
+    "property": "light",
+    "src": ""
+  },
+  "스미레": {
+    "en_name": "Sumire",
+    "property": "dark",
+    "src": ""
+  },
+  "신틸라": {
+    "en_name": "Scintilla",
+    "property": "fire",
+    "src": ""
+  },
+  "아라": {
+    "en_name": "Ara",
+    "property": "water",
+    "src": ""
+  },
+  "아라벨": {
+    "en_name": "Arabelle",
+    "property": "dark",
+    "src": ""
+  },
+  "아오바": {
+    "en_name": "Aoba",
+    "property": "earth",
+    "src": ""
+  },
+  "아이돌 기사단장 에바": {
+    "en_name": "Idol Eva",
+    "property": "basic",
+    "src": ""
+  },
+  "아이샤": {
+    "en_name": "Aisha",
+    "property": "light",
+    "src": ""
+  },
+  "아카유키": {
+    "en_name": "Akayuki",
+    "property": "fire",
+    "src": ""
+  },
+  "안드라스": {
+    "en_name": "Andras",
+    "property": "water",
+    "src": ""
+  },
+  "알레프": {
+    "en_name": "Alef",
+    "property": "earth",
+    "src": ""
+  },
+  "여름의 여관 주인 로레인": {
+    "en_name": "Summer Innkeeper Loraine",
+    "property": "basic",
+    "src": ""
+  },
+  "오그마": {
+    "en_name": "Oghma",
+    "property": "dark",
+    "src": ""
+  },
+  "오르카": {
+    "en_name": "Orca",
+    "property": "water",
+    "src": ""
+  },
+  "유즈": {
+    "en_name": "Yuze",
+    "property": "dark",
+    "src": ""
+  },
+  "유진": {
+    "en_name": "Eugene",
+    "property": "light",
+    "src": ""
+  },
+  "에리나": {
+    "en_name": "Erina",
+    "property": "basic",
+    "src": ""
+  },
+  "에바": {
+    "en_name": "Eva",
+    "property": "light",
+    "src": ""
+  },
+  "에이미": {
+    "en_name": "Amy",
+    "property": "basic",
+    "src": ""
+  },
+  "엘레노아": {
+    "en_name": "Eleanor",
+    "property": "light",
+    "src": ""
+  },
+  "엘비라": {
+    "en_name": "Elvira",
+    "property": "fire",
+    "src": ""
+  },
+  "제로스": {
+    "en_name": "Xellos",
+    "property": "dark",
+    "src": ""
+  },
+  "카리나": {
+    "en_name": "Karina",
+    "property": "dark",
+    "src": ""
+  },
+  "카마엘": {
+    "en_name": "Kamael",
+    "property": "earth",
+    "src": ""
+  },
+  "칸나": {
+    "en_name": "Kanna",
+    "property": "basic",
+    "src": ""
+  },
+  "코코": {
+    "en_name": "Coco",
+    "property": "water",
+    "src": ""
+  },
+  "크로셀": {
+    "en_name": "Crosselle",
+    "property": "dark",
+    "src": ""
+  },
+  "크레이그": {
+    "en_name": "Craig",
+    "property": "earth",
+    "src": ""
+  },
+  "클라라": {
+    "en_name": "Clara",
+    "property": "fire",
+    "src": ""
+  },
+  "클로드": {
+    "en_name": "Claude",
+    "property": "dark",
+    "src": ""
+  },
+  "캐럴": {
+    "en_name": "Carol",
+    "property": "light",
+    "src": ""
+  },
+  "캐서린": {
+    "en_name": "Catherine",
+    "property": "water",
+    "src": ""
+  },
+  "티니아": {
+    "en_name": "Tinia",
+    "property": "earth",
+    "src": ""
+  },
+  "파르바티": {
+    "en_name": "Parvati",
+    "property": "earth",
+    "src": ""
+  },
+  "파비": {
+    "en_name": "Favi",
+    "property": "water",
+    "src": ""
+  },
+  "파이몬": {
+    "en_name": "Pymon",
+    "property": "fire",
+    "src": ""
+  },
+  "프리실라": {
+    "en_name": "Priscilla",
+    "property": "light",
+    "src": ""
+  },
+  "플리트비체": {
+    "en_name": "Plitvice",
+    "property": "fire",
+    "src": ""
+  },
+  "페이": {
+    "en_name": "Fei",
+    "property": "light",
+    "src": ""
+  },
+  "하나": {
+    "en_name": "Hana",
+    "property": "water",
+    "src": ""
+  },
+  "하얀 야수": {
+    "en_name": "White Beast",
+    "property": "water",
+    "src": ""
+  },
+  "해변의 과학자 소히": {
+    "en_name": "Beach Scientist Sohee",
+    "property": "",
+    "src": ""
+  },
+  "헤카테": {
+    "en_name": "Hekate",
+    "property": "earth",
+    "src": ""
+  },
+  "AA72": {
+    "en_name": "AA72",
+    "property": "water",
+    "src": ""
+  },
+  "Mk.2": {
+    "en_name": "Mk.2",
+    "property": "dark",
+    "src": ""
+  },
+  "Mk.99": {
+    "en_name": "Mk.99",
+    "property": "light",
+    "src": ""
+  }
+}
