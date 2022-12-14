@@ -14,13 +14,14 @@ const HeroImageArea = styled.div`
 
 const HeroImage = styled.div`
   height: 100%;
-  background-image: url(${process.env.PUBLIC_URL + "/images/gabriel.png"});
+  background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
   background-size: contain;
   background-repeat: no-repeat;
 `;
 
 const MainPageTemplete = () => {
   const pickHero = "가브리엘";
+  const imageSrc = "/images/garam.png";
 
   heroList.hero.map((hero) => {
     if (hero.name === pickHero) console.log(hero.src_whole);
@@ -29,7 +30,7 @@ const MainPageTemplete = () => {
   return (
     <MainTemplete>
       <HeroImageArea>
-        <HeroImage />
+        <HeroImage imageSrc={imageSrc} />
       </HeroImageArea>
     </MainTemplete>
   );
