@@ -10,10 +10,13 @@ const MainTemplete = styled.div`
 
 const HeroImageArea = styled.div`
   height: 827px;
+  display: flex;
+  background-color: white;
 `;
 
 const HeroImage = styled.div`
-  height: 100%;
+  width: 100px;
+  height: 100px;
   background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
 
   background-size: contain;
@@ -30,7 +33,8 @@ const MainPageTemplete = () => {
       <HeroImageArea>
         {heroList.hero.map((hero) => {
           if (hero.property === "light") {
-            <HeroImage imageSrc={hero.src_whole} />;
+            console.log(hero.src_whole);
+            return <HeroImage imageSrc={hero.src_whole} />;
           } else console.log(hero.name);
         })}
       </HeroImageArea>
