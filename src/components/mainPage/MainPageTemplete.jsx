@@ -10,26 +10,27 @@ const MainTemplete = styled.div`
 
 const HeroImageArea = styled.div`
   height: 827px;
-  background-color: white;
 `;
 
-const HeroImage = styled.img``;
+const HeroImage = styled.div`
+  height: 100%;
+  background-image: url(${process.env.PUBLIC_URL + "/images/gabriel.png"});
+  background-size: contain;
+  background-repeat: no-repeat;
+`;
 
 const MainPageTemplete = () => {
-  // console.log(heroList.hero);
+  const pickHero = "가브리엘";
 
   heroList.hero.map((hero) => {
-    console.log(hero.en_name);
+    if (hero.name === pickHero) console.log(hero.src_whole);
   });
-
-  // let heroImage;
-  // Object.keys(heroList).map((hero) => {
-  //   console.log(hero);
-  // });
 
   return (
     <MainTemplete>
-      <HeroImageArea></HeroImageArea>
+      <HeroImageArea>
+        <HeroImage />
+      </HeroImageArea>
     </MainTemplete>
   );
 };
