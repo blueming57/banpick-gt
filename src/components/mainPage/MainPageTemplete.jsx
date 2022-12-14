@@ -11,12 +11,13 @@ const MainTemplete = styled.div`
 const HeroImageArea = styled.div`
   height: 827px;
   display: flex;
+  flex-wrap: wrap;
   background-color: white;
 `;
 
 const HeroImage = styled.div`
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
 
   background-size: contain;
