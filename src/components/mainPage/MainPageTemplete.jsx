@@ -15,22 +15,24 @@ const HeroImageArea = styled.div`
 const HeroImage = styled.div`
   height: 100%;
   background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
+
   background-size: contain;
   background-repeat: no-repeat;
 `;
 
 const MainPageTemplete = () => {
-  const pickHero = "가브리엘";
-  const imageSrc = "/images/garam.png";
-
-  heroList.hero.map((hero) => {
-    if (hero.name === pickHero) console.log(hero.src_whole);
-  });
+  // heroList.hero.map((hero) => {
+  //   if (hero.name === pickHero) console.log(hero.src_whole);
+  // });
 
   return (
     <MainTemplete>
       <HeroImageArea>
-        <HeroImage imageSrc={imageSrc} />
+        {heroList.hero.map((hero) => {
+          if (hero.property === "light") {
+            <HeroImage imageSrc={hero.src_whole} />;
+          } else console.log(hero.name);
+        })}
       </HeroImageArea>
     </MainTemplete>
   );
