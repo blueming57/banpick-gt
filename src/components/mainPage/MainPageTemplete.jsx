@@ -33,7 +33,7 @@ const MainPageTemplete = () => {
     <MainTemplete>
       <HeroImageArea>
         {heroList.hero.map((hero) => {
-          if (hero.property === "light") {
+          if (hero.property === "fire") {
             console.log(hero.src_whole);
             return <HeroImage imageSrc={hero.src_whole} />;
           } else console.log(hero.name);

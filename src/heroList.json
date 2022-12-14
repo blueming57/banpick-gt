@@ -32,7 +32,7 @@
       "en_name": "Gremory",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/gremory.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -41,7 +41,7 @@
       "en_name": "Girgas",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/girgas.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -50,7 +50,7 @@
       "en_name": "Knight",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/knight.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -59,7 +59,7 @@
       "en_name": "Nari",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/nari.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -68,7 +68,7 @@
       "en_name": "Noxia",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/noxia.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -86,7 +86,7 @@
       "en_name": "Dolf",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/dolf.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -95,7 +95,7 @@
       "en_name": "Lavi",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lavi.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -104,7 +104,7 @@
       "en_name": "Life Guard Yuze",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/life_guard_yuze.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -122,7 +122,7 @@
       "en_name": "Lahn",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lahn.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -131,7 +131,7 @@
       "en_name": "Ranpang",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/ranpang.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -140,7 +140,7 @@
       "en_name": "Loraine",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/loraine.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -149,7 +149,7 @@
       "en_name": "Rue",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/rue.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -158,7 +158,7 @@
       "en_name": "Lucy",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lucy.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -167,7 +167,7 @@
       "en_name": "Lupina",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lupina.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -176,7 +176,7 @@
       "en_name": "Lina",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lina.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -185,7 +185,7 @@
       "en_name": "Lilith",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lilith.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -194,7 +194,7 @@
       "en_name": "Rie",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/rie.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -203,7 +203,7 @@
       "en_name": "Lynn",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/lynn.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -212,7 +212,7 @@
       "en_name": "Rey",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/rey.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -221,7 +221,7 @@
       "en_name": "Rachel",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/rachel.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -230,7 +230,7 @@
       "en_name": "Marina",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/marina.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -239,7 +239,7 @@
       "en_name": "Marianne",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/marianne.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -248,7 +248,7 @@
       "en_name": "Marvin",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/marvin.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -266,7 +266,7 @@
       "en_name": "Future Knight",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/future_knight.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -275,7 +275,7 @@
       "en_name": "Miss Chrom",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/miss_chrom.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -284,7 +284,7 @@
       "en_name": "Miya",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/miya.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -293,7 +293,7 @@
       "en_name": "Mad Panda Trio",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/mad_panda_trio.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -311,7 +311,7 @@
       "en_name": "Mayreel",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/mayreel.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -320,7 +320,7 @@
       "en_name": "Bari",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/bari.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -338,7 +338,7 @@
       "en_name": "Vishuvac",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/vishuvac.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -347,7 +347,7 @@
       "en_name": "Bianca",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/bianca.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -356,7 +356,7 @@
       "en_name": "Veronica",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/veronica.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -365,7 +365,7 @@
       "en_name": "Beth",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/beth.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -374,7 +374,7 @@
       "en_name": "Shapira",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/shapira.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -392,7 +392,7 @@
       "en_name": "Sumire",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/sumire.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -401,7 +401,7 @@
       "en_name": "Scintilla",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/scintilla.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -410,7 +410,7 @@
       "en_name": "Ara",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/ara.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -419,7 +419,7 @@
       "en_name": "Arabelle",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/arabelle.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -428,7 +428,7 @@
       "en_name": "Aoba",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/aoba.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -437,7 +437,7 @@
       "en_name": "Idol Eva",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/idol_eva.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -455,7 +455,7 @@
       "en_name": "Akayuki",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/akayuki.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -464,7 +464,7 @@
       "en_name": "Andras",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/andras.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -473,16 +473,16 @@
       "en_name": "Alef",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/alef.png",
       "src_pick": "",
       "src_ban": ""
     },
     {
       "name": "여름의 여관 주인 로레인",
-      "en_name": "Summer Innkeeper Loraine",
+      "en_name": "S. I. Loraine",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/summer_innkeeper_loraine.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -491,7 +491,7 @@
       "en_name": "Oghma",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/oghma.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -500,7 +500,7 @@
       "en_name": "Orca",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/orca.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -509,7 +509,7 @@
       "en_name": "Yuze",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/yuze.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -527,7 +527,7 @@
       "en_name": "Erina",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/erina.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -545,7 +545,7 @@
       "en_name": "Amy",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/amy.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -563,7 +563,7 @@
       "en_name": "Elvira",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/elvira.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -572,7 +572,7 @@
       "en_name": "Xellos",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/xellos.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -581,7 +581,7 @@
       "en_name": "Karina",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/karina.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -590,7 +590,7 @@
       "en_name": "Kamael",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/kamael.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -599,7 +599,7 @@
       "en_name": "Kanna",
       "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/kanna.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -608,7 +608,7 @@
       "en_name": "Coco",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/coco.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -617,7 +617,7 @@
       "en_name": "Crosselle",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/crosselle.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -626,7 +626,7 @@
       "en_name": "Craig",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/craig.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -635,7 +635,7 @@
       "en_name": "Clara",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/clara.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -644,7 +644,7 @@
       "en_name": "Claude",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/claude.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -662,7 +662,7 @@
       "en_name": "Catherine",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/catherine.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -671,7 +671,7 @@
       "en_name": "Tinia",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/tinia.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -680,7 +680,7 @@
       "en_name": "Parvati",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/parvati.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -689,7 +689,7 @@
       "en_name": "Favi",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/favi.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -698,7 +698,7 @@
       "en_name": "Pymon",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/pymon.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -716,7 +716,7 @@
       "en_name": "Plitvice",
       "property": "fire",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/plitvice.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -734,7 +734,7 @@
       "en_name": "Hana",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/hana.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -743,16 +743,16 @@
       "en_name": "White Beast",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/white_beast.png",
       "src_pick": "",
       "src_ban": ""
     },
     {
       "name": "해변의 과학자 소히",
       "en_name": "Beach Scientist Sohee",
-      "property": "",
+      "property": "basic",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/beach_scientist_sohee.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -761,7 +761,7 @@
       "en_name": "Hekate",
       "property": "earth",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/hekate.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -770,7 +770,7 @@
       "en_name": "AA72",
       "property": "water",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/aa72.png",
       "src_pick": "",
       "src_ban": ""
     },
@@ -779,7 +779,7 @@
       "en_name": "Mk.2",
       "property": "dark",
       "src_list": "",
-      "src_whole": "/images/garam.png",
+      "src_whole": "/images/mk2.png",
       "src_pick": "",
       "src_ban": ""
     },
