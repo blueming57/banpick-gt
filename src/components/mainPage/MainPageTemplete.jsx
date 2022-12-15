@@ -59,6 +59,8 @@ const Property = styled.div`
   background-repeat: no-repeat;
   margin: -16px 0px 1px;
 
+  cursor: pointer;
+
   &:first-child {
     margin-left: 25px;
   }
@@ -117,6 +119,8 @@ const HeroImage = styled.div`
 
   display: flex;
   justify-content: center;
+
+  cursor: pointer;
 `;
 
 const HeroName = styled.div`
@@ -126,7 +130,7 @@ const HeroName = styled.div`
 `;
 
 const MainPageTemplete = () => {
-  const selectHero = "마리나";
+  const selectHero = "유즈";
 
   return (
     <MainTemplete>

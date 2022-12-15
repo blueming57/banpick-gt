@@ -796,26 +796,32 @@
   "property": [
     {
       "type": "fire",
+      "color": "#AA3A1C",
       "src": "/images/property_fire.png"
     },
     {
       "type": "water",
+      "color": "#2274B3",
       "src": "/images/property_water.png"
     },
     {
       "type": "earth",
+      "color": "#806032",
       "src": "/images/property_earth.png"
     },
     {
       "type": "light",
+      "color": "#D79800",
       "src": "/images/property_light.png"
     },
     {
       "type": "dark",
+      "color": "#8C2B97",
       "src": "/images/property_dark.png"
     },
     {
       "type": "basic",
+      "color": "#51626F",
       "src": "/images/property_basic.png"
     }
   ]
