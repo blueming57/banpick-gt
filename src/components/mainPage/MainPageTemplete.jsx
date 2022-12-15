@@ -110,7 +110,10 @@ const HeroImage = styled.div`
   background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
   background-size: contain;
   background-repeat: no-repeat;
-  border: 2px solid ${(props) => (props.focus ? "#FFC302" : "#000")};
+  border: 2px solid ${(props) => (props.focusHero ? "#FFC302" : "#000")};
+  ${(props) =>
+    props.focusHero ? "box-shadow: 0 0 0 2px #FFC302 inset" : null};
+  ${(props) => (props.focusHero ? "background-color: #fff" : null)};
 
   display: flex;
   justify-content: center;
@@ -123,9 +126,7 @@ const HeroName = styled.div`
 `;
 
 const MainPageTemplete = () => {
-  // heroList.hero.map((hero) => {
-  //   if (hero.name === pickHero) console.log(hero.src_whole);
-  // });
+  const selectHero = "마리나";
 
   return (
     <MainTemplete>
@@ -133,7 +134,7 @@ const MainPageTemplete = () => {
         <DescriptionBox>파란 가디언이 영웅을 선택할 차례입니다!</DescriptionBox>
         <SkillArea>
           {heroList.property.map((property) => {
-            return <Property imageSrc={property.src} />;
+            return <Property imageSrc={property.src} key={property.type} />;
           })}
           <SearchBox />
         </SkillArea>
@@ -151,8 +152,11 @@ const MainPageTemplete = () => {
           })} */}
           {heroList.hero.map((hero) => {
             return (
-              <HeroInfo>
-                <HeroImage imageSrc={hero.src_list}>
+              <HeroInfo key={hero.en_name}>
+                <HeroImage
+                  imageSrc={hero.src_list}
+                  focusHero={hero.name === selectHero ? true : false}
+                >
                   <HeroName>{hero.name}</HeroName>
                 </HeroImage>
               </HeroInfo>
