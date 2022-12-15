@@ -75,13 +75,12 @@ const SearchBox = styled.div`
   border-radius: 20px;
 `;
 
-const HeroImageArea = styled.div`
-  background: green;
-  width: 672px;
+const HeroListArea = styled.div`
+  width: 682px;
   height: 397px;
   display: flex;
   flex-wrap: wrap;
-  overflow-y: scroll;
+  overflow: auto;
   position: absolute;
   top: 152px;
   left: 50%;
@@ -94,33 +93,33 @@ const HeroImageArea = styled.div`
   }
 `;
 
-const HeroImage = styled.div`
+const HeroInfo = styled.div`
   width: 90px;
-  height: 90px;
-  background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
-  background-size: contain;
-  background-repeat: no-repeat;
-  border: 2px solid #000;
-  margin-top: -26px;
-  margin-right: 25px;
-
-  display: flex;
-  justify-content: center;
-
-  &:nth-child(-n + 6) {
-    margin-top: 0;
-  }
+  height: 118px;
+  margin-right: 27px;
+  margin-bottom: 10px;
 
   &:nth-child(6n) {
     margin-right: 0;
   }
 `;
 
+const HeroImage = styled.div`
+  width: 90px;
+  height: 90px;
+  background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: 2px solid ${(props) => (props.focus ? "#FFC302" : "#000")};
+
+  display: flex;
+  justify-content: center;
+`;
+
 const HeroName = styled.div`
   margin-top: 90px;
   font-size: 16px;
   font-weight: 400;
-  word-break: keep-all;
 `;
 
 const MainPageTemplete = () => {
@@ -138,20 +137,28 @@ const MainPageTemplete = () => {
           })}
           <SearchBox />
         </SkillArea>
-        <HeroImageArea>
-          {heroList.hero.map((hero) => {
-            if (hero.property === "light") {
+        <HeroListArea>
+          {/* {heroList.hero.map((hero) => {
+            if (hero.property === "light" || hero.property === "basic") {
               return (
+                <HeroInfo>
+                  <HeroImage imageSrc={hero.src_list}>
+                    <HeroName>{hero.name}</HeroName>
+                  </HeroImage>
+                </HeroInfo>
+              );
+            }
+          })} */}
+          {heroList.hero.map((hero) => {
+            return (
+              <HeroInfo>
                 <HeroImage imageSrc={hero.src_list}>
                   <HeroName>{hero.name}</HeroName>
                 </HeroImage>
-              );
-            }
+              </HeroInfo>
+            );
           })}
-          {/* {heroList.hero.map((hero) => {
-            return <HeroImage imageSrc={hero.src_list} />;
-          })} */}
-        </HeroImageArea>
+        </HeroListArea>
       </CenterArea>
     </MainTemplete>
   );
