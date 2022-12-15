@@ -4,7 +4,7 @@
       "name": "가람",
       "en_name": "Garam",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/garam_list.png",
       "src_whole": "/images/garam.png",
       "src_pick": "",
       "src_ban": ""
@@ -13,7 +13,7 @@
       "name": "가브리엘",
       "en_name": "Gabriel",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/gabriel_list.png",
       "src_whole": "/images/gabriel.png",
       "src_pick": "",
       "src_ban": ""
@@ -22,7 +22,7 @@
       "name": "가우리",
       "en_name": "Gourry",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/gourry_list.png",
       "src_whole": "/images/gourry.png",
       "src_pick": "",
       "src_ban": ""
@@ -31,7 +31,7 @@
       "name": "그레모리",
       "en_name": "Gremory",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/gremory_list.png",
       "src_whole": "/images/gremory.png",
       "src_pick": "",
       "src_ban": ""
@@ -40,7 +40,7 @@
       "name": "기르가스",
       "en_name": "Girgas",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/girgas_list.png",
       "src_whole": "/images/girgas.png",
       "src_pick": "",
       "src_ban": ""
@@ -49,7 +49,7 @@
       "name": "기사",
       "en_name": "Knight",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/knight_list.png",
       "src_whole": "/images/knight.png",
       "src_pick": "",
       "src_ban": ""
@@ -58,7 +58,7 @@
       "name": "나리",
       "en_name": "Nari",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/nari_list.png",
       "src_whole": "/images/nari.png",
       "src_pick": "",
       "src_ban": ""
@@ -67,7 +67,7 @@
       "name": "녹시아",
       "en_name": "Noxia",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/noxia_list.png",
       "src_whole": "/images/noxia.png",
       "src_pick": "",
       "src_ban": ""
@@ -76,7 +76,7 @@
       "name": "네바",
       "en_name": "Neva",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/neva_list.png",
       "src_whole": "/images/neva.png",
       "src_pick": "",
       "src_ban": ""
@@ -85,7 +85,7 @@
       "name": "돌프",
       "en_name": "Dolf",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/dolf_list.png",
       "src_whole": "/images/dolf.png",
       "src_pick": "",
       "src_ban": ""
@@ -94,7 +94,7 @@
       "name": "라비",
       "en_name": "Lavi",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/lavi_list.png",
       "src_whole": "/images/lavi.png",
       "src_pick": "",
       "src_ban": ""
@@ -103,7 +103,7 @@
       "name": "라이프 가드 유즈",
       "en_name": "Life Guard Yuze",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/life_guard_yuze_list.png",
       "src_whole": "/images/life_guard_yuze.png",
       "src_pick": "",
       "src_ban": ""
@@ -112,7 +112,7 @@
       "name": "라피스",
       "en_name": "Lapice",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/lapice_list.png",
       "src_whole": "/images/lapice.png",
       "src_pick": "",
       "src_ban": ""
@@ -121,7 +121,7 @@
       "name": "란",
       "en_name": "Lahn",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/lahn_list.png",
       "src_whole": "/images/lahn.png",
       "src_pick": "",
       "src_ban": ""
@@ -130,7 +130,7 @@
       "name": "란팡",
       "en_name": "Ranpang",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/ranpang_list.png",
       "src_whole": "/images/ranpang.png",
       "src_pick": "",
       "src_ban": ""
@@ -139,7 +139,7 @@
       "name": "로레인",
       "en_name": "Loraine",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/loraine_list.png",
       "src_whole": "/images/loraine.png",
       "src_pick": "",
       "src_ban": ""
@@ -148,7 +148,7 @@
       "name": "루",
       "en_name": "Rue",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/rue_list.png",
       "src_whole": "/images/rue.png",
       "src_pick": "",
       "src_ban": ""
@@ -157,7 +157,7 @@
       "name": "루시",
       "en_name": "Lucy",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/lucy_list.png",
       "src_whole": "/images/lucy.png",
       "src_pick": "",
       "src_ban": ""
@@ -166,7 +166,7 @@
       "name": "루피나",
       "en_name": "Lupina",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/lupina_list.png",
       "src_whole": "/images/lupina.png",
       "src_pick": "",
       "src_ban": ""
@@ -175,7 +175,7 @@
       "name": "리나",
       "en_name": "Lina",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/lina_list.png",
       "src_whole": "/images/lina.png",
       "src_pick": "",
       "src_ban": ""
@@ -184,7 +184,7 @@
       "name": "리리스",
       "en_name": "Lilith",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/lilith_list.png",
       "src_whole": "/images/lilith.png",
       "src_pick": "",
       "src_ban": ""
@@ -193,7 +193,7 @@
       "name": "리에",
       "en_name": "Rie",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/rie_list.png",
       "src_whole": "/images/rie.png",
       "src_pick": "",
       "src_ban": ""
@@ -202,7 +202,7 @@
       "name": "린",
       "en_name": "Lynn",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/lynn_list.png",
       "src_whole": "/images/lynn.png",
       "src_pick": "",
       "src_ban": ""
@@ -211,7 +211,7 @@
       "name": "레이",
       "en_name": "Rey",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/rey_list.png",
       "src_whole": "/images/rey.png",
       "src_pick": "",
       "src_ban": ""
@@ -220,7 +220,7 @@
       "name": "레이첼",
       "en_name": "Rachel",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/rachel_list.png",
       "src_whole": "/images/rachel.png",
       "src_pick": "",
       "src_ban": ""
@@ -229,7 +229,7 @@
       "name": "마리나",
       "en_name": "Marina",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/marina_list.png",
       "src_whole": "/images/marina.png",
       "src_pick": "",
       "src_ban": ""
@@ -238,7 +238,7 @@
       "name": "마리안",
       "en_name": "Marianne",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/marianne_list.png",
       "src_whole": "/images/marianne.png",
       "src_pick": "",
       "src_ban": ""
@@ -247,7 +247,7 @@
       "name": "마빈",
       "en_name": "Marvin",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/marvin_list.png",
       "src_whole": "/images/marvin.png",
       "src_pick": "",
       "src_ban": ""
@@ -256,7 +256,7 @@
       "name": "미래 공주",
       "en_name": "Future Princess",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/future_princess_list.png",
       "src_whole": "/images/future_princess.png",
       "src_pick": "",
       "src_ban": ""
@@ -265,7 +265,7 @@
       "name": "미래 기사",
       "en_name": "Future Knight",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/future_knight_list.png",
       "src_whole": "/images/future_knight.png",
       "src_pick": "",
       "src_ban": ""
@@ -274,7 +274,7 @@
       "name": "미스 크롬",
       "en_name": "Miss Chrom",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/miss_chrom_list.png",
       "src_whole": "/images/miss_chrom.png",
       "src_pick": "",
       "src_ban": ""
@@ -283,7 +283,7 @@
       "name": "미야",
       "en_name": "Miya",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/miya_list.png",
       "src_whole": "/images/miya.png",
       "src_pick": "",
       "src_ban": ""
@@ -292,7 +292,7 @@
       "name": "매드 팬더단",
       "en_name": "Mad Panda Trio",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/mad_panda_trio_list.png",
       "src_whole": "/images/mad_panda_trio.png",
       "src_pick": "",
       "src_ban": ""
@@ -301,7 +301,7 @@
       "name": "메이",
       "en_name": "Mei",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/mei_list.png",
       "src_whole": "/images/mei.png",
       "src_pick": "",
       "src_ban": ""
@@ -310,7 +310,7 @@
       "name": "메이릴",
       "en_name": "Mayreel",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/mayreel_list.png",
       "src_whole": "/images/mayreel.png",
       "src_pick": "",
       "src_ban": ""
@@ -319,7 +319,7 @@
       "name": "바리",
       "en_name": "Bari",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/bari_list.png",
       "src_whole": "/images/bari.png",
       "src_pick": "",
       "src_ban": ""
@@ -328,7 +328,7 @@
       "name": "발렌시아",
       "en_name": "Valencia",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/valencia_list.png",
       "src_whole": "/images/valencia.png",
       "src_pick": "",
       "src_ban": ""
@@ -337,7 +337,7 @@
       "name": "비슈바크",
       "en_name": "Vishuvac",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/vishuvac_list.png",
       "src_whole": "/images/vishuvac.png",
       "src_pick": "",
       "src_ban": ""
@@ -346,7 +346,7 @@
       "name": "비앙카",
       "en_name": "Bianca",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/bianca_list.png",
       "src_whole": "/images/bianca.png",
       "src_pick": "",
       "src_ban": ""
@@ -355,7 +355,7 @@
       "name": "베로니카",
       "en_name": "Veronica",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/veronica_list.png",
       "src_whole": "/images/veronica.png",
       "src_pick": "",
       "src_ban": ""
@@ -364,7 +364,7 @@
       "name": "베스",
       "en_name": "Beth",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/beth_list.png",
       "src_whole": "/images/beth.png",
       "src_pick": "",
       "src_ban": ""
@@ -373,7 +373,7 @@
       "name": "샤피라",
       "en_name": "Shapira",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/shapira_list.png",
       "src_whole": "/images/shapira.png",
       "src_pick": "",
       "src_ban": ""
@@ -382,7 +382,7 @@
       "name": "소히",
       "en_name": "Sohee",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/sohee_list.png",
       "src_whole": "/images/sohee.png",
       "src_pick": "",
       "src_ban": ""
@@ -391,7 +391,7 @@
       "name": "스미레",
       "en_name": "Sumire",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/sumire_list.png",
       "src_whole": "/images/sumire.png",
       "src_pick": "",
       "src_ban": ""
@@ -400,7 +400,7 @@
       "name": "신틸라",
       "en_name": "Scintilla",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/scintilla_list.png",
       "src_whole": "/images/scintilla.png",
       "src_pick": "",
       "src_ban": ""
@@ -409,7 +409,7 @@
       "name": "아라",
       "en_name": "Ara",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/ara_list.png",
       "src_whole": "/images/ara.png",
       "src_pick": "",
       "src_ban": ""
@@ -418,7 +418,7 @@
       "name": "아라벨",
       "en_name": "Arabelle",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/arabelle_list.png",
       "src_whole": "/images/arabelle.png",
       "src_pick": "",
       "src_ban": ""
@@ -427,7 +427,7 @@
       "name": "아오바",
       "en_name": "Aoba",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/aoba_list.png",
       "src_whole": "/images/aoba.png",
       "src_pick": "",
       "src_ban": ""
@@ -436,7 +436,7 @@
       "name": "아이돌 기사단장 에바",
       "en_name": "Idol Eva",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/idol_eva_list.png",
       "src_whole": "/images/idol_eva.png",
       "src_pick": "",
       "src_ban": ""
@@ -445,7 +445,7 @@
       "name": "아이샤",
       "en_name": "Aisha",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/aisha_list.png",
       "src_whole": "/images/aisha.png",
       "src_pick": "",
       "src_ban": ""
@@ -454,7 +454,7 @@
       "name": "아카유키",
       "en_name": "Akayuki",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/akayuki_list.png",
       "src_whole": "/images/akayuki.png",
       "src_pick": "",
       "src_ban": ""
@@ -463,7 +463,7 @@
       "name": "안드라스",
       "en_name": "Andras",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/andras_list.png",
       "src_whole": "/images/andras.png",
       "src_pick": "",
       "src_ban": ""
@@ -472,7 +472,7 @@
       "name": "알레프",
       "en_name": "Alef",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/alef_list.png",
       "src_whole": "/images/alef.png",
       "src_pick": "",
       "src_ban": ""
@@ -481,7 +481,7 @@
       "name": "여름의 여관 주인 로레인",
       "en_name": "S. I. Loraine",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/summer_innkeeper_loraine_list.png",
       "src_whole": "/images/summer_innkeeper_loraine.png",
       "src_pick": "",
       "src_ban": ""
@@ -490,7 +490,7 @@
       "name": "오그마",
       "en_name": "Oghma",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/oghma_list.png",
       "src_whole": "/images/oghma.png",
       "src_pick": "",
       "src_ban": ""
@@ -499,7 +499,7 @@
       "name": "오르카",
       "en_name": "Orca",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/orca_list.png",
       "src_whole": "/images/orca.png",
       "src_pick": "",
       "src_ban": ""
@@ -508,7 +508,7 @@
       "name": "유즈",
       "en_name": "Yuze",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/yuze_list.png",
       "src_whole": "/images/yuze.png",
       "src_pick": "",
       "src_ban": ""
@@ -517,7 +517,7 @@
       "name": "유진",
       "en_name": "Eugene",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/eugene_list.png",
       "src_whole": "/images/eugene.png",
       "src_pick": "",
       "src_ban": ""
@@ -526,7 +526,7 @@
       "name": "에리나",
       "en_name": "Erina",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/erina_list.png",
       "src_whole": "/images/erina.png",
       "src_pick": "",
       "src_ban": ""
@@ -535,7 +535,7 @@
       "name": "에바",
       "en_name": "Eva",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/eva_list.png",
       "src_whole": "/images/eva.png",
       "src_pick": "",
       "src_ban": ""
@@ -544,7 +544,7 @@
       "name": "에이미",
       "en_name": "Amy",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/amy_list.png",
       "src_whole": "/images/amy.png",
       "src_pick": "",
       "src_ban": ""
@@ -553,7 +553,7 @@
       "name": "엘레노아",
       "en_name": "Eleanor",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/eleanor_list.png",
       "src_whole": "/images/eleanor.png",
       "src_pick": "",
       "src_ban": ""
@@ -562,7 +562,7 @@
       "name": "엘비라",
       "en_name": "Elvira",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/elvira_list.png",
       "src_whole": "/images/elvira.png",
       "src_pick": "",
       "src_ban": ""
@@ -571,7 +571,7 @@
       "name": "제로스",
       "en_name": "Xellos",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/xellos_list.png",
       "src_whole": "/images/xellos.png",
       "src_pick": "",
       "src_ban": ""
@@ -580,7 +580,7 @@
       "name": "카리나",
       "en_name": "Karina",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/karina_list.png",
       "src_whole": "/images/karina.png",
       "src_pick": "",
       "src_ban": ""
@@ -589,7 +589,7 @@
       "name": "카마엘",
       "en_name": "Kamael",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/kamael_list.png",
       "src_whole": "/images/kamael.png",
       "src_pick": "",
       "src_ban": ""
@@ -598,7 +598,7 @@
       "name": "칸나",
       "en_name": "Kanna",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/kanna_list.png",
       "src_whole": "/images/kanna.png",
       "src_pick": "",
       "src_ban": ""
@@ -607,7 +607,7 @@
       "name": "코코",
       "en_name": "Coco",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/coco_list.png",
       "src_whole": "/images/coco.png",
       "src_pick": "",
       "src_ban": ""
@@ -616,7 +616,7 @@
       "name": "크로셀",
       "en_name": "Crosselle",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/crosselle_list.png",
       "src_whole": "/images/crosselle.png",
       "src_pick": "",
       "src_ban": ""
@@ -625,7 +625,7 @@
       "name": "크레이그",
       "en_name": "Craig",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/craig_list.png",
       "src_whole": "/images/craig.png",
       "src_pick": "",
       "src_ban": ""
@@ -634,7 +634,7 @@
       "name": "클라라",
       "en_name": "Clara",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/clara_list.png",
       "src_whole": "/images/clara.png",
       "src_pick": "",
       "src_ban": ""
@@ -643,7 +643,7 @@
       "name": "클로드",
       "en_name": "Claude",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/claude_list.png",
       "src_whole": "/images/claude.png",
       "src_pick": "",
       "src_ban": ""
@@ -652,7 +652,7 @@
       "name": "캐럴",
       "en_name": "Carol",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/carol_list.png",
       "src_whole": "/images/carol.png",
       "src_pick": "",
       "src_ban": ""
@@ -661,7 +661,7 @@
       "name": "캐서린",
       "en_name": "Catherine",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/catherine_list.png",
       "src_whole": "/images/catherine.png",
       "src_pick": "",
       "src_ban": ""
@@ -670,7 +670,7 @@
       "name": "티니아",
       "en_name": "Tinia",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/tinia_list.png",
       "src_whole": "/images/tinia.png",
       "src_pick": "",
       "src_ban": ""
@@ -679,7 +679,7 @@
       "name": "파르바티",
       "en_name": "Parvati",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/parvati_list.png",
       "src_whole": "/images/parvati.png",
       "src_pick": "",
       "src_ban": ""
@@ -688,7 +688,7 @@
       "name": "파비",
       "en_name": "Favi",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/favi_list.png",
       "src_whole": "/images/favi.png",
       "src_pick": "",
       "src_ban": ""
@@ -697,7 +697,7 @@
       "name": "파이몬",
       "en_name": "Pymon",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/pymon_list.png",
       "src_whole": "/images/pymon.png",
       "src_pick": "",
       "src_ban": ""
@@ -706,7 +706,7 @@
       "name": "프리실라",
       "en_name": "Priscilla",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/priscilla_list.png",
       "src_whole": "/images/priscilla.png",
       "src_pick": "",
       "src_ban": ""
@@ -715,7 +715,7 @@
       "name": "플리트비체",
       "en_name": "Plitvice",
       "property": "fire",
-      "src_list": "",
+      "src_list": "/images/plitvice_list.png",
       "src_whole": "/images/plitvice.png",
       "src_pick": "",
       "src_ban": ""
@@ -724,7 +724,7 @@
       "name": "페이",
       "en_name": "Fei",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/fei_list.png",
       "src_whole": "/images/fei.png",
       "src_pick": "",
       "src_ban": ""
@@ -733,7 +733,7 @@
       "name": "하나",
       "en_name": "Hana",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/hana_list.png",
       "src_whole": "/images/hana.png",
       "src_pick": "",
       "src_ban": ""
@@ -742,7 +742,7 @@
       "name": "하얀 야수",
       "en_name": "White Beast",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/white_beast_list.png",
       "src_whole": "/images/white_beast.png",
       "src_pick": "",
       "src_ban": ""
@@ -751,7 +751,7 @@
       "name": "해변의 과학자 소히",
       "en_name": "Beach Scientist Sohee",
       "property": "basic",
-      "src_list": "",
+      "src_list": "/images/beach_scientist_sohee_list.png",
       "src_whole": "/images/beach_scientist_sohee.png",
       "src_pick": "",
       "src_ban": ""
@@ -760,7 +760,7 @@
       "name": "헤카테",
       "en_name": "Hekate",
       "property": "earth",
-      "src_list": "",
+      "src_list": "/images/hekate_list.png",
       "src_whole": "/images/hekate.png",
       "src_pick": "",
       "src_ban": ""
@@ -769,7 +769,7 @@
       "name": "AA72",
       "en_name": "AA72",
       "property": "water",
-      "src_list": "",
+      "src_list": "/images/aa72_list.png",
       "src_whole": "/images/aa72.png",
       "src_pick": "",
       "src_ban": ""
@@ -778,7 +778,7 @@
       "name": "Mk.2",
       "en_name": "Mk.2",
       "property": "dark",
-      "src_list": "",
+      "src_list": "/images/mk2_list.png",
       "src_whole": "/images/mk2.png",
       "src_pick": "",
       "src_ban": ""
@@ -787,7 +787,7 @@
       "name": "Mk.99",
       "en_name": "Mk.99",
       "property": "light",
-      "src_list": "",
+      "src_list": "/images/mk99_list.png",
       "src_whole": "/images/mk99.png",
       "src_pick": "",
       "src_ban": ""

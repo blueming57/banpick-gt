@@ -12,12 +12,13 @@ const HeroImageArea = styled.div`
   height: 827px;
   display: flex;
   flex-wrap: wrap;
+  overflow: auto;
   background-color: white;
 `;
 
 const HeroImage = styled.div`
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   background-image: url(${(props) => process.env.PUBLIC_URL + props.imageSrc});
 
   background-size: contain;
@@ -33,11 +34,14 @@ const MainPageTemplete = () => {
     <MainTemplete>
       <HeroImageArea>
         {heroList.hero.map((hero) => {
-          if (hero.property === "fire") {
-            console.log(hero.src_whole);
-            return <HeroImage imageSrc={hero.src_whole} />;
-          } else console.log(hero.name);
+          return <HeroImage imageSrc={hero.src_list} />;
         })}
+        {/* {heroList.hero.map((hero) => {
+          if (hero.property === "water") {
+            console.log(hero.src_whole);
+            return <HeroImage imageSrc={hero.src_list} />;
+          } else console.log(hero.name);
+        })} */}
       </HeroImageArea>
     </MainTemplete>
   );
