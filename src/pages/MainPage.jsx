@@ -16,6 +16,7 @@ const Background = styled.div`
   background-image: url(${bgImageSrc});
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: "Noto Sans KR";
 `;
 
 const MainPage = () => {

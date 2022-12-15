@@ -100,7 +100,7 @@
       "src_ban": ""
     },
     {
-      "name": "라이프 가드 유즈",
+      "name": "L.G.유즈",
       "en_name": "Life Guard Yuze",
       "property": "water",
       "src_list": "/images/life_guard_yuze_list.png",
@@ -289,7 +289,7 @@
       "src_ban": ""
     },
     {
-      "name": "매드 팬더단",
+      "name": "매드팬더단",
       "en_name": "Mad Panda Trio",
       "property": "earth",
       "src_list": "/images/mad_panda_trio_list.png",
@@ -433,7 +433,7 @@
       "src_ban": ""
     },
     {
-      "name": "아이돌 기사단장 에바",
+      "name": "I.에바",
       "en_name": "Idol Eva",
       "property": "basic",
       "src_list": "/images/idol_eva_list.png",
@@ -478,8 +478,8 @@
       "src_ban": ""
     },
     {
-      "name": "여름의 여관 주인 로레인",
-      "en_name": "S. I. Loraine",
+      "name": "S.I.로레인",
+      "en_name": "S.I.Loraine",
       "property": "basic",
       "src_list": "/images/summer_innkeeper_loraine_list.png",
       "src_whole": "/images/summer_innkeeper_loraine.png",
@@ -748,7 +748,7 @@
       "src_ban": ""
     },
     {
-      "name": "해변의 과학자 소히",
+      "name": "B.S.소히",
       "en_name": "Beach Scientist Sohee",
       "property": "basic",
       "src_list": "/images/beach_scientist_sohee_list.png",

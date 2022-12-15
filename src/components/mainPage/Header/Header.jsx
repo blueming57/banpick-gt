@@ -4,7 +4,7 @@ import Trapezoid from "./Trapezoid";
 
 const HeaderArea = styled.div`
   width: 100%;
-  height: 85px;
+  height: 75px;
   background-color: rgba(255, 255, 255, 0.3);
   margin-top: 53px;
   position: relative;
