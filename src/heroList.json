@@ -792,5 +792,31 @@
       "src_pick": "",
       "src_ban": ""
     }
+  ],
+  "property": [
+    {
+      "type": "fire",
+      "src": "/images/property_fire.png"
+    },
+    {
+      "type": "water",
+      "src": "/images/property_water.png"
+    },
+    {
+      "type": "earth",
+      "src": "/images/property_earth.png"
+    },
+    {
+      "type": "light",
+      "src": "/images/property_light.png"
+    },
+    {
+      "type": "dark",
+      "src": "/images/property_dark.png"
+    },
+    {
+      "type": "basic",
+      "src": "/images/property_basic.png"
+    }
   ]
 }
